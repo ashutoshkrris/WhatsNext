@@ -6,7 +6,7 @@ This is a simple To-Do Web App made using Django to test basic CRUD operations.
 
 ## Demo
 
-![What's Next? Demo](https://github.com/ashutoshkrris/Whats-Next/blob/master/whatsnext.png)
+![What's Next? Demo](https://github.com/ashutoshkrris/WhatsNext/blob/master/whatsnext.png)
 
 ## Features
 

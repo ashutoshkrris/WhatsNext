@@ -19,11 +19,12 @@ This is a simple To-Do Web App made using Django to test basic CRUD operations.
  * Change the working directory to the folder where you downloaded the files
  * Install the required packages using the pip command :
  
-            `pip install -r requirements.txt`
+     `pip install -r requirements.txt`
+   
  * After successful installation of all the packages, run the following Django commands :
  
-            `py manage.py migrate`
-            `py manage.py runserver`
+     `py manage.py migrate`
+     `py manage.py runserver`
             
  * Visit `127.0.0.1:8000` in your browser to use the app.
 

@@ -24,6 +24,7 @@ This is a simple To-Do Web App made using Django to test basic CRUD operations.
  * After successful installation of all the packages, run the following Django commands :
  
      `py manage.py migrate`
+     
      `py manage.py runserver`
             
  * Visit `127.0.0.1:8000` in your browser to use the app.
